@@ -1,0 +1,485 @@
+    1  q
+    2  a
+    3  aa
+    4  a
+    5  aa
+    6  sudo apt-get install vim
+    7  sudo apt install libssl-dev bison flex
+    8  sudo apt install qt5-default pkg-config
+    9  ls
+   10  *
+   11  ls
+   12  time
+   13  ls
+   14  time
+   15  date
+   16  ls
+   17  date
+   18  ls
+   19  *
+   20  ls
+   21  cd Desktop/
+   22  ls
+   23  *
+   24  ls
+   25  cd Desktop/
+   26  ls
+   27  mkdir lab
+   28  ls
+   29  cd lab
+   30  mkdir lab2
+   31  cd lab2
+   32  sudo apt install gi
+   33  sudo apt install git gitk git-email
+   34  sudo apt update
+   35  sudo apt install git gitk git-email
+   36  git remote remove origin
+   37  sudo apt install git 
+   38  git remote rm testing
+   39  sudo apt install git 
+   40  git remote -v
+   41  git remote remove origin
+   42  rm -rf .git
+   43  git remote remove origin
+   44  sudo apt install git gitk git-email
+   45  sudo apt install git 
+   46  ps aux | grep -i apt
+   47  sudo reboot
+   48  sudo apt install git gitk git-email
+   49  git config --global uqer.name "Kamal"
+   50  git config --global user.name "Kamal"
+   51  git config --global user.email "Kamal.lemsyeh@etu.sorbonne-universite.com"
+   52  git config --global user.email [kamal.lemsyeh@etu.sorbonne-universite.fr]
+   53  git config --global user.email "kamal.lemsyeh@etu.sorbonne-universite.fr"
+   54  git config --list
+   55  git config --global user.name "Kamal"
+   56  git config --global user.email "kamal.lemsyeh@etu.sorbonne-universite.fr"
+   57  git config --list
+   58  git config --global user.email
+   59  git config --global user.name 
+   60  git config --global --unset uqer.name
+   61  git config --list
+   62  ls
+   63  cd Desktop/
+   64  ls
+   65  cd lab/
+   66  ls
+   67  cd lab2/
+   68  vim
+   69  ls
+   70  cat lemsyeh 
+   71  git init lab2
+   72  ls
+   73  cd ..
+   74  ls
+   75  cd lab2/
+   76  ls
+   77  cd lab2/
+   78  ls
+   79  cd ..
+   80  rm -r lab2/
+   81  ls
+   82  git init
+   83  ls
+   84  cd ..
+   85  git init lab2/
+   86  ls
+   87  cd lab2
+   88  ls
+   89  cd ..
+   90  git status
+   91  cd lab2
+   92  git status
+   93  git add lemsyeh
+   94  git status
+   95  git commit -m "Julius Ceasar"
+   96  git status
+   97  ls
+   98  vim lemsyeh
+   99  ls
+  100  rm lemsyeh
+  101  ls
+  102  cd ..
+  103  ls
+  104  git status
+  105  cd lab2/
+  106  git status
+  107  git add lemsyeh.txt
+  108  git status
+  109  git rm lemsyeh
+  110  ls
+  111  git status
+  112  git commit -m "Julius Ceasar"
+  113  git status
+  114  git remote add origin https://github.com/Kamalemsyeh/lab2.git
+  115  git push -u origin master
+  116  cd $HOME
+  117  git clone https://github.com/Kamalemsyeh/lab2
+  118  ls
+  119  cd lab2
+  120  ls
+  121  history
+  122  history > cr_lab2.txt
+  123  ls
+  124  rm cr_lab2.txt 
+  125  ls
+  126  cd ..
+  127  ls
+  128  cd Desktop/lab/lab2/history > cr_lab2.txt
+  129  cd Desktop/lab/lab2/
+  130  ls
+  131  history > cr_lab2.txt
+  132  ls
+  133  git pull
+  134  cd ..
+  135  mkdir lab3
+  136  cd lab3
+  137  git clone https://github.com/khachicha/5AS05-partie3 
+  138  ls
+  139  cd 5AS05-partie3/
+  140  ls
+  141  ls -lrt
+  142  history 
+  143  cd Desktop/lab/lab3/ 
+  144  ls -lrt
+  145  cd 5AS05-partie3/
+  146  ls -lrt
+  147  cp sardar/ /lab3
+  148  cp -r sardar/ /lab3
+  149  cp -r sardar/ lab3
+  150  ls
+  151  rm -r lab3/
+  152  pwd
+  153  cp -r sardar/ /home/student/Desktop/lab/lab3
+  154  cp -r README.md /home/student/Desktop/lab/lab3
+  155  cp -r Microsoft /home/student/Desktop/lab/lab3
+  156  cp -r answering-machine.txt /home/student/Desktop/lab/lab3
+  157  cd ..
+  158  ls
+  159  rm -r 5AS05-partie3/
+  160  ls
+  161  cd 5AS05-partie3/
+  162  pwd
+  163  cd ..
+  164  rm -r /home/student/Desktop/lab/lab3/5AS05-partie3
+  165  rm -rf /home/student/Desktop/lab/lab3/5AS05-partie3
+  166  ls
+  167  ls -lrt
+  168  cd sardar/
+  169  ls
+  170  cd ..
+  171  ls
+  172  du
+  173  du Microsoft 
+  174  ls
+  175  du -sh Microsoft 
+  176  du -sB M  Microsoft 
+  177  du -sB G  Microsoft 
+  178  du -sh Microsoft 
+  179  du -sB K  Microsoft 
+  180  ls -sh  Microsoft 
+  181  ls -lh  Microsoft 
+  182  ls -l  Microsoft 
+  183* ls   Microsoft 
+  184  ls -sh  Microsoft 
+  185  ls -lh  Microsoft 
+  186  ls -lrt
+  187  stat Microsoft 
+  188  ls -a
+  189  ls -al
+  190  ls -d .*
+  191  ls
+  192  cd ..
+  193  ls
+  194  rm -r lab3
+  195  mkdir lab3
+  196  git clone https://github.com/khachicha/5AS05-partie3
+  197  ls
+  198  rm -f 5AS05-partie3/
+  199  rm -rf 5AS05-partie3/
+  200  cd lab3
+  201  git clone https://github.com/khachicha/5AS05-partie3
+  202  ls
+  203  cd 5AS05-partie3/
+  204  pwd
+  205  cd ..
+  206  cp -a /home/student/Desktop/lab/lab3/5AS05-partie3/. /home/student/Desktop/lab/lab3/
+  207  ls
+  208  rm -rf 5AS05-partie3/
+  209  ls -a
+  210  ls
+  211  ls -al
+  212  ls -d .*
+  213  ls -A
+  214  ls -A ~
+  215  ls -A
+  216  ls -a
+  217  ls -dl .*
+  218  stat
+  219  ld -tr
+  220  ls -tr
+  221  ls -art
+  222  ls - list art
+  223  ls -list -art
+  224  ls -lart
+  225  ls -r
+  226  ls -lSr
+  227  cat answering-machine.txt 
+  228  less answering-machine.txt 
+  229  more answering-machine.txt 
+  230  cat answering-machine.txt | more
+  231  cat answering-machine.txt | less
+  232  cat answering-machine.txt | more
+  233  cat *.txt
+  234  cat answering-machine.txt | more
+  235  cat answering-machine.txt | less
+  236  sudo apt install vim
+  237  cat answering-machine.txt | less
+  238  vim answering-machine.txt 
+  239  cat
+  240  vim answering-machine.txt 
+  241  ls
+  242  cd sardar/
+  243  ls
+  244  tail -20 sardar3.txt 
+  245  cd ..
+  246  ls
+  247  pwd
+  248  grep -iRl "trust" /home/student/Desktop/lab/lab3
+  249  grep -iRl "trust" /home/student/Desktop/lab/lab3/Microsoft 
+  250* grep -Rl "trust' /home/student/Desktop/lab/lab3/Microsoft 
+  251* 
+  252  grep -iRl 'trust' /home/student/Desktop/lab/lab3/Microsoft 
+  253  grep -Rl 'trust' /home/student/Desktop/lab/lab3/Microsoft 
+  254  grep -Rw 'trust' /home/student/Desktop/lab/lab3/Microsoft 
+  255  grep -Rw -e 'trust' /home/student/Desktop/lab/lab3/Microsoft 
+  256  grep -Rinw 'trust' /home/student/Desktop/lab/lab3/Microsoft 
+  257  grep -Rinw 'money' /home/student/Desktop/lab/lab3/
+  258  grep -Rinw 'trust' /home/student/Desktop/lab/lab3/Microsoft 
+  259  history 
+  260  grep -Rinw 'Money' /home/student/Desktop/lab/lab3/
+  261  git add 
+  262  git remote add origin https://github.com/Kamalemsyeh
+  263  git remote add lab3 https://github.com/Kamalemsyeh
+  264  git push -u lab3 master
+  265  git push -u lab3 
+  266  git remote add lab3 
+  267  git add lab3 
+  268  ls
+  269  pwd
+  270  git add /home/student/Desktop/lab/lab3
+  271  git status
+  272  git remote add lab3 https://github.com/Kamalemsyeh/lab3.git
+  273  git remote add origin https://github.com/Kamalemsyeh/lab3.git
+  274  git init
+  275  ls
+  276  cd ..
+  277  ls
+  278  cd lab3
+  279  ls
+  280  git init
+  281  git status
+  282  git add
+  283  history
+  284  mv .lightbulb lightbulb
+  285  ls
+  286  cd sardar
+  287  ls -lrt
+  288  ls
+  289  pwd
+  290  ls
+  291  cd ..
+  292  pwd
+  293  cp -r sardar /home/student/Desktop/lab/lab3
+  294  cp -r /home/student/Desktop/lab/lab3/sardar /home/student/Desktop/lab/lab3
+  295  cd sardar/
+  296  mv sardar3.txt /home/student/Desktop/lab/lab3
+  297  ls
+  298  cd ..
+  299  ls
+  300  cd sardar/
+  301  cd ..
+  302  ls
+  303  rm -r Microsoft 
+  304  ls
+  305  tar cvf lab3.tar /home/student/Desktop/lab/lab3
+  306  ls
+  307  rm -r lab3.tar 
+  308  tar cvf lab3.tar /lab3
+  309  tar cvf lab3.tar lab3
+  310  tar cvf lab3.tar lab3/
+  311  cd ..
+  312  ls
+  313  tar cvf lab3.tar lab3/
+  314  pwd
+  315  ls
+  316  tar -tvf lab3.tar '/sardar'
+  317  tar -tvf lab3.tar 'sardar'
+  318  tar -tvf lab3.tar sardar
+  319  ls
+  320  cd lab3
+  321  ls
+  322  pwd
+  323  cd sardar
+  324  pwd
+  325  cd /lab3
+  326  cd lab3/
+  327  cd ../..
+  328  ls
+  329  ln -s /home/student/Desktop/lab/lab3/sardar
+  330  ln -s /home/student/Desktop/lab/lab3/sardar link
+  331  ls
+  332  rm sardar
+  333  ls
+  334  ln -s /home/student/Desktop/lab/lab3/sardar /home/student/Desktop/lab/lab3/sardar
+  335  ln -s /home/student/Desktop/lab/lab3/sardar /home/student/Desktop/lab/lab3.tar
+  336  ls
+  337  ls -lrt
+  338  mv link /home/student/Desktop/lab/lab3
+  339  cd lab3
+  340  ls
+  341  ls -lrt
+  342  rm sardar/sardar2.txt 
+  343  ls -lrt
+  344  ln -s /home/student/Desktop/lab/lab3/sardar/sardar1.txt 
+  345  ln -s /home/student/Desktop/lab/lab3/sardar/sardar1.txt toto
+  346  ls
+  347  rm link
+  348  rm sardar1.txt 
+  349  ls
+  350  rm sardar/sardar1.txt 
+  351  ls
+  352  cd sardar/
+  353  ls
+  354  cd ..
+  355  ls
+  356  pwd
+  357  ln -s /home/student/Desktop/lab/lab3/sardar/sardar3.txt toto1
+  358  ls
+  359  vim /home/student/Desktop/lab/lab3/sardar
+  360  cd sardar/
+  361  ls
+  362  vim sardar3.txt 
+  363  ls
+  364  cd ..
+  365  ls
+  366  ls -lrt
+  367  ls -l
+  368  chmod u-w /home/student/Desktop/lab/lab3/sardar/sardar3.txt 
+  369  ls-l
+  370  ls -l
+  371  cd sardar/
+  372  ls -lrt
+  373  vim sardar3.txt 
+  374  cat sardar3.txt 
+  375  cd ..
+  376  ls
+  377  cd ..
+  378  ls
+  379  rm lab3.tar 
+  380  ls
+  381  tar cvf lab3.tar lab3/
+  382  ls
+  383  cd lab3/
+  384  ls
+  385  rm lab3.tar 
+  386  cd ..
+  387  ls
+  388  mv lab3.tar lab3/
+  389  ls
+  390  cd lab3/
+  391  ls
+  392  rm lab3.tar 
+  393  cd ..
+  394  bzip2 cvf lab3.tar lab3/
+  395  bzip2 lab3.tar 
+  396  bzip2 /lab3.tar 
+  397  bzip2 lab3.tar/ 
+  398  ls
+  399  cd lab3
+  400  bzip2 lab3.tar/ 
+  401  bzip2 lab3.tar/
+  402  bzip2 cvf lab3.tar lab3/
+  403  bzip2 cvf lab3 lab3/
+  404  bzip2 -k lab3.tar/
+  405  ls
+  406  cd ..
+  407  ls
+  408  cd ..
+  409  ls
+  410  cd lab
+  411  cd lab3
+  412  ls
+  413  tar cvf lab3.tar lab3/
+  414  tar cvf lab3.tar lab3
+  415  cd ..
+  416  tar cvf lab3.tar lab3
+  417  ls
+  418  bzip2 -k lab3.tar/
+  419  bzip2 -k lab3.tar
+  420  ls
+  421  tar -tf lab3.tar.bz2 
+  422  mv lab3.tar.bz2 lab3/
+  423  ls
+  424  git init lab3/
+  425  git status
+  426  cd lab3
+  427  git init lab3/
+  428  git status
+  429  git add 
+  430  git add all
+  431  git add .
+  432  ls
+  433  git status
+  434  git commit -m Alexander
+  435  git remote add origin https://github.com/Kamalemsyeh/lab3.git
+  436  git push -u origin master
+  437  git push -u origin main
+  438  git push -u origin master
+  439  git remote add origin https://github.com/Kamalemsyeh/lab3.git
+  440  git push -u origin master
+  441  git status
+  442  git push -u origin master
+  443  ls
+  444  cd lab3
+  445  ls
+  446  cd ..
+  447  git push -u origin master
+  448  git remote add origin https://github.com/Kamalemsyeh/lab3.git
+  449  git push -u origin master
+  450  git remote remove origin
+  451  git remote add origin https://github.com/Kamalemsyeh/lab3.git
+  452  git push -u origin master
+  453  cd ..
+  454  ls
+  455  cd lab2
+  456  ls
+  457  git add .
+  458  git push -u origin master
+  459  git status
+  460  git remote add origin https://github.com/Kamalemsyeh/lab2.git
+  461  git remote remove origin
+  462  git remote add origin https://github.com/Kamalemsyeh/lab2.git
+  463  git push -u origin master
+  464  git init
+  465  git status
+  466  git add 
+  467  git add cr_lab2.txt 
+  468  git remote add origin https://github.com/Kamalemsyeh/lab2.git
+  469  git remote remove origin
+  470  git remote add origin https://github.com/Kamalemsyeh/lab2.git
+  471  git push -u origin master
+  472  git add cr_lab2.txt 
+  473  git remote remove origin
+  474  git remote add origin https://github.com/Kamalemsyeh/lab2.git
+  475  git remote remove origin
+  476  git commit -m ""
+  477  git commit -m " "
+  478  git commit -m 
+  479  git commit -m -a
+  480  git remote add origin https://github.com/Kamalemsyeh/lab2.git
+  481  git push -u origin master
+  482  cd ..
+  483  cd lab3
+  484  ls
+  485  history > cr_lab3.txt
